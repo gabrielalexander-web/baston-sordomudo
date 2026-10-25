@@ -1,0 +1,6 @@
+pyserial>=3.5
+opencv-python>=4.9
+ultralytics>=8.2
+python-dotenv>=1.0
+numpy>=1.26
+pytest>=8.0
